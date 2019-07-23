@@ -4,3 +4,11 @@
     background-image: url("http://caputconsultoria.com.br/site_temp/wp-content/uploads/2013/04/reflexoes-mundo-trabalho.jpg");
     background-size: cover;
   }
+
+  .button:hover {
+    background-color: red;
+    box-shadow: 1px;
+    transition: 1s;
+    opacity: 0.5;
+  }
+
